@@ -8,8 +8,8 @@
 		{
 			"id": 2,
 			"image_url": "https://media.publit.io/file/butterflies.jpg",
-			"redirect_address": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
-			"redirect_type": 1
+			"redirect_address": "market://details?id=com.kiloo.subwaysurf",
+			"redirect_type": 2
 		}
 	],
 	"ads": {
