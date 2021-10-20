@@ -1,17 +1,5 @@
 {
-	"promotion": [{
-			"id": 1,
-			"image_url": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
-			"redirect_address": "https://books4u.app",
-			"redirect_type": 2
-		},
-		{
-			"id": 2,
-			"image_url": "https://media.publit.io/file/butterflies.jpg",
-			"redirect_address": "market://details?id=com.kiloo.subwaysurf",
-			"redirect_type": 2
-		}
-	],
+	"promotion": [],
 	"ads": {
 		"fullscreen_open_count": 3,
 		"drawer_open_count": 8,
