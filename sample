@@ -1,0 +1,30 @@
+{
+	"promotion": [{
+			"id": 1,
+			"image_url": "https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg",
+			"redirect_address": "https://books4u.app",
+			"redirect_type": 2
+		},
+		{
+			"id": 2,
+			"image_url": "https://media.publit.io/file/butterflies.jpg",
+			"redirect_address": "market://details?id=com.kiloo.subwaysurf",
+			"redirect_type": 2
+		}
+	],
+	"ads": {
+		"fullscreen_open_count": 3,
+		"drawer_open_count": 8,
+		"book_open_count": 4,
+		"tab_change_count": 4
+	},
+	"update": {
+		"version_code": "1",
+		"is_hard_update": true,
+		"image_url": "https://media.giphy.com/media/2x0tJVAL3IqFnZYhYt/giphy.gif",
+		"apk_download_url": "https://play.google.com/store/apps/details?id=read.free.books.app.download",
+		"title": "New update available",
+		"message": "You are using oldere version, please update to new version",
+		"button_text": "Update"
+	}
+}
