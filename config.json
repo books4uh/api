@@ -7,8 +7,8 @@
 		"tab_change_count": 4
 	},
 	"update": {
-		"version_code": "2",
-		"is_hard_update": false,
+		"version_code": "1",
+		"is_hard_update": true,
 		"image_url": "https://media.giphy.com/media/2x0tJVAL3IqFnZYhYt/giphy.gif",
 		"title": "New update available",
 		"message": "You are using oldere version, please update to new version",
