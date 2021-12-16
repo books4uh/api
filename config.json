@@ -10,7 +10,7 @@
 		"version_code": 1,
 		"is_hard_update": true,
 		"image_url": "https://media.giphy.com/media/2x0tJVAL3IqFnZYhYt/giphy.gif",
-		"download_from_where": 1,
+		"download_from_where": 2,
 		"store_package_name": "download.read.free.books.app",
 		"web_download_url": "https://books4u.app",
 		"title": "New update available",
