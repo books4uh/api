@@ -1,10 +1,10 @@
 {
 	"promotion": [],
 	"ads": {
-		"fullscreen_open_count": 7,
-		"drawer_open_count": 7,
-		"book_open_count": 4,
-		"tab_change_count": 6
+		"fullscreen_open_count": 70,
+		"drawer_open_count": 70,
+		"book_open_count": 100,
+		"tab_change_count": 80
 	},
 	"update": {
 		"version_code": 1,
