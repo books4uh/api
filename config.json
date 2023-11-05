@@ -7,15 +7,15 @@
 		"tab_change_count": 80
 	},
 	"update": {
-		"version_code": 1,
-		"is_hard_update": true,
-		"image_url": "https://media.giphy.com/media/2x0tJVAL3IqFnZYhYt/giphy.gif",
+		"version_code": 24,
+		"is_hard_update": false,
+		"image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E5bXRiZGd3ejJhdnE0N3RmemV4Mmxzb3AyYXZrYTdlejdldWk2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6LT7nbZXv4orPnjufH/giphy.gif",
 		"download_from_where": 1,
-		"update_for_users": 1,
-		"store_package_name": "download.read.free.books.app",
-		"web_download_url": "https://books4u.app",
-		"title": "New update available",
-		"message": "You are using oldere version, please update to new version",
-		"button_text": "Update"
+		"update_for_users": 2,
+		"store_package_name": "com.bookbuzz",
+		"web_download_url": "https://play.google.com/store/apps/details?id=com.bookbuzz",
+		"title": "Book Buzz - Free eBooks app",
+		"message": "Unlock a world of knowledge for FREE! Download new app and enjoy a vast collection of eBooks at no cost. Start your reading journey now!",
+		"button_text": "Download"
 	}
 }
